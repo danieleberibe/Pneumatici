@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+data/
+certs/
+*.log
+
+
+# Local captures and connection QR codes
+artifacts/
+# Local credentials
+.env
+.env.*
+*.pem
+*.key
+
